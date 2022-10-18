@@ -11,10 +11,6 @@
 <a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
 
 <!--
 **m7julia/m7julia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
