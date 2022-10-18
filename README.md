@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
   <img width="250" src="https://78.media.tumblr.com/a71bc83661d3be8192c7d6cd62e2e966/tumblr_pa2knrX5Zz1xu0hh4o1_500.gif">
 </p>
 
