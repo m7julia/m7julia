@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F437865-cglre-gifs&psig=AOvVaw2uvdxXPG9O4BK0plGWqd5A&ust=1666177157913000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOCNoeDP6foCFQAAAAAdAAAAABAh">
 </p>
 
 
