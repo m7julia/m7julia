@@ -4,7 +4,11 @@
   <img width="250" src="http://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif">
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7julia&layout=compact&langs_count=7&theme=dracula"/>
+
+<p align="right">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7julia&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
 <!--
 **m7julia/m7julia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
