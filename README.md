@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-  <img width="250" src="https://78.media.tumblr.com/a71bc83661d3be8192c7d6cd62e2e966/tumblr_pa2knrX5Zz1xu0hh4o1_500.gif">
+  <img width="250" src="http://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif">
 </p>
 
 
