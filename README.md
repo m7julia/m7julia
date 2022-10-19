@@ -1,12 +1,12 @@
 ### Olá! 👋
 
 <p align="left">
-  <img width="250" src="http://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif">
+  <!--<img width="250" src="http://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif"> 
+  <img width="250" src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif">
+  <img width="250" src="http://24.media.tumblr.com/c74c26fc85fb6b78cdbba94b00492d58/tumblr_n08txah95c1slk289o1_500.gif">-->
+  <img width="250" src="http://31.media.tumblr.com/61a5d7a9514ca171d3044cec93450a36/tumblr_moddv54rbB1rwai13o1_500.gif">
 </p>
 
-<p align="right">
-  <img width="250" src="[http://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F699606123356853655%2F&psig=AOvVaw0OcqAP3mRwXHzpI_CKw9Ln&ust=1666272044945000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjcjp2x7PoCFQAAAAAdAAAAABA1)">
-</p>
 
 <!--
 <p align="right">
