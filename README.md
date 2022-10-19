@@ -4,8 +4,8 @@
   <img width="250" src="http://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif">
 </p>
 
-<p align="center">
-  <img width="250" src="[http://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif](https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif)">
+<p align="left">
+  <img width="250" src="[http://33.media.tumblr.com/9399e5e1fa6f95c895a501b8226121bd/tumblr_nr4f0wy65q1updbngo1_250.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F699606123356853655%2F&psig=AOvVaw0OcqAP3mRwXHzpI_CKw9Ln&ust=1666272044945000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjcjp2x7PoCFQAAAAAdAAAAABA1)">
 </p>
 
 <!--
