@@ -1,23 +1,10 @@
-### Olá! 👋
+💜 Olá, meu nome é **Maria Júlia Hofstetter**!  
+Sou estagiária técnica de informática e desenvolvedora de software na **Vert Ecotech S.A.**. Estou sempre buscando aprender e me desenvolver, contribuindo para a criação de soluções tecnológicas inovadoras.
 
-
-
-<!--
-<p align="right">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7julia&layout=compact&langs_count=7&theme=dracula"/>
-</p>-->
-
-<!--
-**m7julia/m7julia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Minhas Skills**  
+- **Linguagens:** JavaScript, TypeScript, Python  
+- **Front-end:** React, HTML5, CSS, Bootstrap  
+- **Back-end:** Node.js, Express  
+- **Banco de Dados:** MySQL, PostgreSQL, SQL Server  
+- **Outras ferramentas:** Git
+✨
