@@ -64,7 +64,7 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
 
 ## 📈 Atividade no GitHub
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=ffb86c&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m7julia&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=ffb86c&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
