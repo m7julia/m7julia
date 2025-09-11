@@ -52,12 +52,12 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
 ## 📊 **Estatísticas do GitHub**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m7julia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7julia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7julia&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
@@ -65,7 +65,7 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
 ## 🐍 **Contribuições**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/m7julia/m7julia/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -84,7 +84,7 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=m7julia&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
