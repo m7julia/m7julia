@@ -1,7 +1,7 @@
-# 💜 Olá, meu nome é **Maria Júlia Hofstetter**!
+# 💖 Olá, meu nome é **Maria Júlia Hofstetter**!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8B5CF6&size=35&center=true&vCenter=true&width=1000&lines=Bem-vinda+ao+meu+perfil!;Estagiária+Técnica+de+Informática;Desenvolvedora+de+Software;Sempre+aprendendo+e+evoluindo!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!;Técnica+de+Informática;Desenvolvedora+de+Software;Sempre+aprendendo+e+evoluindo!" />
 </div>
 
 ---
@@ -52,19 +52,19 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
 ## 📊 **Estatísticas do GitHub**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m7julia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7julia&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m7julia&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_color=ffb6c1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7julia&layout=compact&langs_count=7&theme=tokyonight&title_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_color=ffb6c1"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7julia&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7julia&theme=tokyonight&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 📈 Atividade no GitHub
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m7julia&theme=dracula&bg_color=282a36&color=bd93f9&line=ff79c6&point=ffb86c&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m7julia&theme=tokyo-night&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffb6c1&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -73,17 +73,17 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
 
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-júlia-h-t-pereira" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%23FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mariajuliahofstetter@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=m7julia&label=Profile%20views&color=8B5CF6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=m7julia&label=Visualizações&color=FF69B4&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
@@ -91,3 +91,4 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
   ✨ *"A tecnologia move o mundo, mas são as pessoas que a tornam significativa."* ✨
   
 </div>
+
