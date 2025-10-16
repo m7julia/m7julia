@@ -56,10 +56,6 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7julia&layout=compact&langs_count=7&theme=tokyonight&title_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_color=ffb6c1"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m7julia&theme=tokyonight&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 📈 Atividade no GitHub
@@ -74,9 +70,6 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
 <div align="center">
   <a href="https://www.linkedin.com/in/maria-júlia-h-t-pereira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:mariajuliahofstetter@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
