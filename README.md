@@ -47,8 +47,9 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
 ## 📊 **Estatísticas do GitHub**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m7julia&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_color=ffb6c1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7julia&layout=compact&langs_count=7&theme=tokyonight&title_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_color=ffb6c1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m7julia&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_color=ffb6c1&cache_seconds=7200"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7julia&layout=compact&langs_count=7&theme=tokyonight&title_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_color=ffb6c1&cache_seconds=7200"/>
+  
 </div>
 
 ---
