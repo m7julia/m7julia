@@ -44,12 +44,14 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
 
 ---
 
-## 📊 **Estatísticas do GitHub**
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m7julia&show_icons=true&theme=tokyonight&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_color=ffb6c1&cache_seconds=7200"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7julia&layout=compact&langs_count=7&theme=tokyonight&title_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_color=ffb6c1&cache_seconds=7200"/>
-  
+
+<img src="https://github-readme-stats.shion.dev/api?username=m7julia&show_icons=true&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_color=ffb6c1&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m7julia&layout=compact&langs_count=7&title_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_color=ffb6c1" alt="Linguagens mais utilizadas" />
+
 </div>
 
 ---
@@ -57,7 +59,19 @@ Sou **técnica de informática** e **desenvolvedora full stack** na **Vert Ecote
 ## 📈 Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m7julia&theme=tokyo-night&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffb6c1&area=true&hide_border=true" width="100%"/>
+
+<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=m7julia&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffb6c1&area=true&hide_border=true" width="100%" alt="Gráfico de atividade do GitHub" />
+
+</div>
+
+---
+
+## 🏆 Contribuições
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m7julia&theme=radical" alt="Contribuições" />
+
 </div>
 
 ---
